@@ -8,7 +8,11 @@
 
 # Smart Grid
 
+View page: [GitHub Pages](https://fredsrocha.github.io/fsr-smart-grid/)
+
 :gift: Smart grid for responsive design. [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
+
+View article: [Responsive Smart Grid](http://codepen.io/fredsrocha/post/smart-grid)
 
 [![FSR Components - Twitter](https://img.shields.io/twitter/follow/fsrcomponents.svg?style=social&label=Follow@FsrComponents)](https://twitter.com/fsrcomponents)
 
