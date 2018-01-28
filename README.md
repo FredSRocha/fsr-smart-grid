@@ -10,7 +10,7 @@
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-smart-grid/)
 
-**ARTICLE:** [Smart Grid Responsive](http://codepen.io/fredsrocha/post/smart-grid)
+**ARTICLE:** [Smart Grid Responsive](http://codepen.io/fredsrocha/post/smart-grid-responsive)
 
 **CODEPEN:** [Smart Grid Responsive](https://codepen.io/fredsrocha/pen/LWGRpe)
 
