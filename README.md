@@ -4,15 +4,15 @@
 ![License](https://img.shields.io/badge/license-MIT-ff8a65.svg?style=flat-square "License")
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square "Version")
 
-# Smart Grid
+# Smart Grid Responsive
 
 :gift: Smart grid for responsive design. [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-smart-grid/)
 
-**ARTICLE:** [Responsive Smart Grid](http://codepen.io/fredsrocha/post/smart-grid)
+**ARTICLE:** [Smart Grid Responsive](http://codepen.io/fredsrocha/post/smart-grid)
 
-**CODEPEN:** [Responsive Smart Grid](https://codepen.io/fredsrocha/pen/LWGRpe)
+**CODEPEN:** [Smart Grid Responsive](https://codepen.io/fredsrocha/pen/LWGRpe)
 
 <table>
   <thead>
